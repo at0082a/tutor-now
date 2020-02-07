@@ -1,0 +1,6 @@
+let number = 25
+let arr = []
+
+for (i=0; i<number; i++) {
+  if (number[i] % 1)
+}
